@@ -71,15 +71,15 @@ class _SplashScreenState extends State<SplashScreen> {
                               style: TextStyle(
                                   fontSize: 25,
                                   fontWeight: FontWeight.bold,
-                                  color: Colors.white),
+                                  color: Color(0xff000000)),
                             ),
                           ),
                           SizedBox(height: 5),
                           Center(
                             child: Text(
                               products[index].description,
-                              style:
-                                  TextStyle(fontSize: 16, color: Colors.white),
+                              style: TextStyle(
+                                  fontSize: 16, color: Color(0xff000000)),
                             ),
                           ),
                         ],
