@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+- Links de referencia:
+- https://youtu.be/hRqPk-pH6y0?si=aAHLMI9-vun005LX
+
+
+![image](https://github.com/AvitiaD128/UII-Ac6-avitia1212/assets/143744078/cdbcdd96-1d8c-4a64-90d3-4efe935f6478)
+![image](https://github.com/AvitiaD128/UII-Ac6-avitia1212/assets/143744078/01e5161a-647c-4781-a4c9-b4e938b616a9)
+![image](https://github.com/AvitiaD128/UII-Ac6-avitia1212/assets/143744078/d0fdd5e4-9018-4f05-89af-8d7765f449bd)
+
